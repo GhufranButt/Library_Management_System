@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Admin125!@%",
+    "database": "Library_Management_System",
+    "host": "localhost",
+    "dialect": "mysql",
+    "migrationStorage": "sequelize",
+    "migrationStorageTableName": "SequelizeMeta"
+  },
+  "test": {
+    "username": "root",
+    "password": "Admin125!@%",
+    "database": "Library_Management_System",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Admin125!@%",
+    "database": "Library_Management_System",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
